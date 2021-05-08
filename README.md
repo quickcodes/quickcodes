@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dhruvSoni
+- 👋 Hi, I’m @DhruvSoni
 - 👀 I’m interested in coding and book reading
 - 🌱 I'm currently learning competitive coding and building own projects
 - 💞️ I’m looking to collaborate on mini projects
