@@ -1,13 +1,15 @@
-<h1 align="center">Hi 👋, I'm Dhruv Soni</h1>
+<h1 align="center">Hi 👋, I'm <a href="https://dhruvcodes.me" target="blank"> Dhruv Soni</a></h1>
 <h3 align="center">A passionate Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quickcodes&label=Profile%20views&color=0e75b6&style=flat" alt="quickcodes" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quickcodes" alt="quickcodes" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [dhruvcodes.me](dhruvcodes.me)
 
 - 📝 I regularly write articles on [dhruvcodes.me/blog](dhruvcodes.me/blog)
 
-- 📫 How to reach me **dhruvcodes.me**
+- 📫 How to reach me **https://dhruvcodes.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
