@@ -10,8 +10,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-
-
 <h1 align="center">Hi 👋,  <a href="https://dhruvcodes.me" target="blank">quickcodes</a> here...</h1> 
 <h3 align="center">Developer From India</h3>  
   
@@ -68,7 +66,7 @@ You can click the Preview link to take a look at your changes.
 <!-- OS, Language, Website Banners -->
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=skyblue&color=skyblue)      ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=critical&color=lightgreen)   ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=silver)    ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=yellow)    <a href="http://dhruvcodes.me">
-   <img align="center" src="https://img.shields.io/badge/Website-harshtech.me-informational?style=flat&logo=android&logoColor=skyblue&color=skyblue" />
+   <img align="center" src="https://img.shields.io/badge/Website-dhruvcodes.me-informational?style=flat&logo=android&logoColor=skyblue&color=skyblue" />
 </a>
 <!-- ![](https://img.shields.io/badge/Website-harshtech.me-informational?style=flat&logo=android&logoColor=skyblue&color=skyblue) -->
 
@@ -98,6 +96,9 @@ You can click the Preview link to take a look at your changes.
 [![trophy](https://github-profile-trophy.vercel.app/?username=quickcodes&no-bg=true&no-frame=true&theme=algolia&row=2&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quickcodes&label=Profile%20views&color=0e75b6&style=flat" alt="quickcodes" /> </p> 
+
+
+
 
 
 
