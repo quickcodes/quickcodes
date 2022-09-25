@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quickcodes" alt="quickcodes" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [dhruvcodes.me](dhruvcodes.me)
+- 👨‍💻 All of my projects are available at [https://dhruvcodes.me](https://dhruvcodes.me)
 
-- 📝 I regularly write articles on [dhruvcodes.me/blog](dhruvcodes.me/blog)
+- 📝 I regularly write articles on [https://dhruvcodes.me/blog](https://dhruvcodes.me/blog)
 
-- 📫 How to reach me **https://dhruvcodes.me**
+- 📫 How to reach me **https://dhruvcodes.me/contact**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,4 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=quickcodes&show_icons=true&locale=en" alt="quickcodes" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quickcodes&" alt="quickcodes" /></p>
-
